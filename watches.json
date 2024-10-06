@@ -1,1 +1,9 @@
-
+[
+  { "id": 1, "name": "Analog Wall Clock", "price": 25 },
+  { "id": 2, "name": "Digital Alarm Clock", "price": 30 },
+  { "id": 3, "name": "Cuckoo Clock", "price": 75 },
+  { "id": 4, "name": "Grandfather Clock", "price": 300 },
+  { "id": 5, "name": "Atomic Clock", "price": 120 },
+  { "id": 6, "name": "Smart Clock", "price": 50 },
+  { "id": 7, "name": "Table Clock", "price": 40 }
+]
